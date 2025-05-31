@@ -4,7 +4,7 @@ This project implements a real-time data pipeline for continuous data ingestion 
 
 ## Architecture
 
-![alt text](file:///C:/Users/Muneeb/Desktop/Saylani%20projects/Real-Time-Data-Pipeline-with-AWS-NiFi-and-Snowflake-main/aws-NIFI.PNG)
+![AWS NiFi Architecture](https://github.com/Muneeb-hassan96/Real-Time-Data-Pipeline-with-AWS-NiFi-and-Snowflake-main/raw/main/aws-NIFI.PNG)
 
 ## Tech Stack:
 ➔ Languages: Python3, JavaScript, SQL
